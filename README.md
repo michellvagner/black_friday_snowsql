@@ -21,6 +21,7 @@ run.bat - Script para execução automática das queries necessárias
 
 # ❄️ Configurar o SnowSQL
 
+Baixe o SnowSQL aqui: https://www.snowflake.com/en/developers/downloads/snowsql/
 Instale o SnowSQL.
 Abra o CMD (Executar -> cmd).
 Digite:
